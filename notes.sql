@@ -289,11 +289,11 @@ SELECT Birthdate
 FROM employees
 
 #So you're taking parts of that time stamp 
-and computing maybe a second of time 
-because you want to aggregate on that. 
-For example, do we see a high volume of 
-hits to our website at an individual 
-second or is it over the span of a certain hour?
+#and computing maybe a second of time 
+#because you want to aggregate on that. 
+#For example, do we see a high volume of 
+#hits to our website at an individual 
+#second or is it over the span of a certain hour?
 
 #search case statement
 SELECT 
